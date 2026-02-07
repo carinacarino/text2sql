@@ -1,9 +1,3 @@
-Carina Rodriguez
-
-EN.705.743.8VL.FA25
-
-11/21/2025
-
 Note: This project was developed with the assistance of the Cursor AI code editor.
 
 
