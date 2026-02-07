@@ -1,0 +1,59 @@
+{
+  "num_examples": 100,
+  "k_values_tested": [
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    35,
+    40,
+    45,
+    50
+  ],
+  "results": [
+    {
+      "k": 5,
+      "accuracy": 0.55
+    },
+    {
+      "k": 10,
+      "accuracy": 0.59
+    },
+    {
+      "k": 15,
+      "accuracy": 0.55
+    },
+    {
+      "k": 20,
+      "accuracy": 0.52
+    },
+    {
+      "k": 25,
+      "accuracy": 0.55
+    },
+    {
+      "k": 30,
+      "accuracy": 0.55
+    },
+    {
+      "k": 35,
+      "accuracy": 0.52
+    },
+    {
+      "k": 40,
+      "accuracy": 0.48
+    },
+    {
+      "k": 45,
+      "accuracy": 0.48
+    },
+    {
+      "k": 50,
+      "accuracy": 0.49
+    }
+  ],
+  "best_k": 10,
+  "best_accuracy": 0.59
+}
